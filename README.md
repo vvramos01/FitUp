@@ -66,7 +66,7 @@ Siga os passos abaixo para clonar e rodar o projeto em sua máquina local:
 
 Clonar o repositório:
 
-git clone https://github.com/seu-usuario/FitUp.git
+git clone https://github.com/vvramos01/FitUp.git
 
 
 Acessar o diretório do projeto:
